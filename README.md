@@ -1,0 +1,2 @@
+# Covid-Effect-On-Life-Expectancy-Worldwide
+Understanding the mortality impact of COVID-19 requires not only counting the dead, but analyzing how premature the deaths are. We calculate years of life lost (YLL) across 81 countries due to COVID-19 attributable deaths, and also conduct an analysis based on estimated excess deaths. We find that over 20.5 million years of life have been lost to COVID-19 globally.
